@@ -11,8 +11,8 @@ I love learning new technologies, solving coding challenges, and working on real
 - **Frameworks**: .NET (Core & Framework), ASP.NET Core (Web API)
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Database**: SQL Server, T-SQL, ADO.NET, EF Core
-- **APIs**:  RESTful APIs, Postman, Swagger
-- **Version Control**: Git, GitHub
+- **APIs**:  RESTful APIs
+- **Tools**: Git, GitHub, Postman, Swagger
 
 
 ## 📂 Featured Projects  
@@ -76,7 +76,7 @@ _"The best way to learn is by building."_ 🚀 **Let's code and grow together!**
 - SQL Server | Entity Framework | ADO.NET  
 - Git | GitHub | Visual Studio | Postman
 -->
-- **Tools**: Git, GitHub, Postman, Swagger
+
 <!--
 ## 📈 GitHub Stats  
 <div align="center">
